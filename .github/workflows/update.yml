@@ -1,0 +1,27 @@
+name: Update README with UNIX Time
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 毎日午前0時
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v3
+
+      - name: update
+        run: |
+          UNIX_TIME=$(date +%s)
+          sed "s/{date}/$UNIX_TIME/g" profile/README.md > README.md
+
+      - name: commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "update" || echo "no changes to commit"
+          git push

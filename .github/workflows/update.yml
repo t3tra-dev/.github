@@ -3,6 +3,11 @@ name: update README
 on:
   schedule:
     - cron: "0 0 * * *" # 毎日午前0時
+  push:
+    branches:
+      - main
+    paths:
+      - 'profile/**'
   workflow_dispatch:
 
 jobs:

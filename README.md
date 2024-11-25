@@ -15,6 +15,6 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1732543939" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&date=1732543939" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1732544206" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&date=1732544206" />
 </div>

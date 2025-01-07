@@ -9,7 +9,7 @@
 </div>
 
 - 🧑‍💻 I'm a Japanese student.
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Scala!
 - 📫 How to reach me: [X - @t3tra_x](https://x.com/t3tra_x)
 <br>
 
@@ -19,6 +19,6 @@
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1736211217" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=10&card_width=460&date=1736211217" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t3tra-dev&theme=dark&layout=compact&show_icons=true&date=1736213304" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t3tra-dev&theme=dark&layout=compact&langs_count=10&card_width=460&date=1736213304" />
 </div>

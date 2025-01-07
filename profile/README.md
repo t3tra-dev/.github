@@ -9,7 +9,7 @@
 </div>
 
 - 🧑‍💻 I'm a Japanese student.
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Scala!
 - 📫 How to reach me: [X - @t3tra_x](https://x.com/t3tra_x)
 <br>
 
